@@ -4,3 +4,11 @@ janela
 teste
 pedra
 papel
+tesoura
+aviao
+computador
+caderno
+zebra
+ventilador
+mouse
+roupa
